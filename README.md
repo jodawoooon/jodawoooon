@@ -9,7 +9,7 @@
  - ETRI - Intern 👩🏻‍💻 *2019*
  - SSAFY 5th 💻 *2021*
 
-## :rocket:
+### :rocket:
 
 ![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=jodawoooon&show_icons=true)
 
