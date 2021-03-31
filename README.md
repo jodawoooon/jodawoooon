@@ -9,6 +9,9 @@
  - ETRI - Intern 👩🏻‍💻 *2019*
  - SSAFY 5th 💻 *2021*
 
+
+##
+
 ![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=jodawoooon&show_icons=true)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jodawoooon)](https://solved.ac/jodawoooon)
