@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**jodawoooon/jodawoooon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 조다운 Daun Jo
 
-Here are some ideas to get you started:
+*Department of Information and Communication Engineering*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CBNU 👩🏻‍🎓  ****2016 ~ 2021
+
+PING 2016 ~ 2020
+
+LIKE LION 6th 🦁 2018
+
+ETRI - Intern 👩🏻‍💻 2019
+
+SSAFY 5th 💻 2021
