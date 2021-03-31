@@ -13,5 +13,7 @@ ETRI - Intern 👩🏻‍💻 *2019*
 
 SSAFY 5th 💻 *2021*
 
+<div align="center">
+  [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={jodawoooon})](https://solved.ac/{jodawoooon})
+</div>
 
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={jodawoooon})](https://solved.ac/{jodawoooon})
