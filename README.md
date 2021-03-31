@@ -13,4 +13,4 @@ ETRI - Intern 👩🏻‍💻 *2019*
 
 SSAFY 5th 💻 *2021*
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jodawoooon&show_icons=true)
