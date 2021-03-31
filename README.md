@@ -12,3 +12,6 @@ LIKE LION 6th 🦁 *2018*
 ETRI - Intern 👩🏻‍💻 *2019*
 
 SSAFY 5th 💻 *2021*
+
+
+[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={jodawoooon})](https://solved.ac/{jodawoooon})
