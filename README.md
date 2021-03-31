@@ -8,7 +8,3 @@
  - LIKE LION 6th 🦁 *2018*
  - ETRI - Intern 👩🏻‍💻 *2019*
  - SSAFY 5th 💻 *2021*
-
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jodawoooon&show_icons=true)
