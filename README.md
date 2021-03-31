@@ -1,6 +1,6 @@
 
 
-## 조다운 Daun Jo
+## 조다운 *Daun Jo*
 *Department of Information and Communication Engineering*
 
 
@@ -9,7 +9,7 @@
  - ETRI - Intern 👩🏻‍💻 *2019*
  - SSAFY 5th 💻 *2021*
 
-* * *
+##
 
 ![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=jodawoooon&show_icons=true)
 
