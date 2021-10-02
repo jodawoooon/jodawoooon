@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=jodawoooon&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,6,5,10&height=240&section=header&text=jodawoooon&fontSize=75&fontAlign=71)
 ## 조다운 *Daun Jo*
 *Department of Information and Communication Engineering*
 
