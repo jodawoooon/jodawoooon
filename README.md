@@ -36,8 +36,9 @@
 
 ### About Me
 
-  <a href="https://velog.io/@jodawooooon"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jodawooooon"/></a>
-  <a href="https://www.instagram.com/jodawoooon/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jodawoooon/"/></a>
+  <a href="https://velog.io/@jodawooooon">![Dev.to blog](https://img.shields.io/badge/Velog-00CCBB?style=for-the-badge&logo=blogger&logoColor=white)</a>
+ <a href="https://www.instagram.com/jodawoooon/"> ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+
 
 
 ![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=jodawoooon&show_icons=true)
